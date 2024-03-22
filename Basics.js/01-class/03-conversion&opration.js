@@ -15,5 +15,14 @@ let booleanIsLogedIn = Boolean(isLogedIn)
 console.log(booleanIsLogedIn);
 //convert boolean value
  // "number con to boolean"  1 con true, 0 con flase
- //"string con to boolean"   false = "",  true = "shahbaz",  
+ //"string con to boolean"   false = "",  true = "shahbaz",
+ 
+ 
+ //*************Oprations**************//
+
+ let str1 = "shahbaz"
+ let str2 = "Ali"
+ let str3 = "str1 "+"str2"
+ console.log(str3)
+
 
